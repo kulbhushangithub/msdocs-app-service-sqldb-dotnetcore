@@ -15,6 +15,7 @@ namespace DotNetCoreSqlDb.Controllers
 
         public IActionResult Index()
         {
+            //testing
             return View();
         }
 
